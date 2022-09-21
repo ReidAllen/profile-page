@@ -11,4 +11,7 @@ html {
   height: 80vh;
   background-color: black;
   background-image: url("hero-banner.jpg")
+  background-repeat:no-repeat;
+  background-position: center center;
+
 }
